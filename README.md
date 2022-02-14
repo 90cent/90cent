@@ -10,4 +10,4 @@ MEAT 4 LIFE 4 REAL LOL
  🌮 GEGAKE 🌮
  
  
- 💸💸💸 I like money lol
+
