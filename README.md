@@ -11,3 +11,11 @@ Programming languages that i hate 🤬:
  - C# (very slow)
  
  
+Programming langauges that i learned:
+ - C#
+ - Python
+ - HTML/CSS
+ - Javascript
+ - C++ (little)
+ - Rust
+ - Java
