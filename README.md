@@ -17,4 +17,4 @@ Programming langauges that i learned:
  - Java
 
 
-[personal site]("https://90cent.github.io")
+[personal site]("https://www.90cent.github.io")
