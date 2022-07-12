@@ -15,3 +15,6 @@ Programming langauges that i learned:
  - C++ (little)
  - Rust
  - Java
+
+
+[personal site]("https://90cent.github.io")
